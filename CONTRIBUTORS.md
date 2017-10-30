@@ -1,4 +1,4 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
+#### Name: [Evan hanif](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
@@ -8,7 +8,7 @@
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
  
- #### Name: [Leon Todd](https://github.com/leontodd)
+ #### Evan hanif: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
  - GitHub: [Leon Todd](https://github.com/leontodd)
